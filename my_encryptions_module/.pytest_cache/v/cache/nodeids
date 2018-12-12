@@ -1,0 +1,5 @@
+[
+  "test_encryptions.py::test_key_encryptions",
+  "test_encryptions.py::test_caesar_encryption",
+  "test_encryptions.py::test_vigenere_encryption"
+]
